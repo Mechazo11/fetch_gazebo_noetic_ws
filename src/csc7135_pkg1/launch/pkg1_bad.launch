@@ -1,0 +1,10 @@
+<launch>
+    <!-- Launches good configuration for Experiment 1 -->
+
+    <!-- Launch the fetchrobot_node -->
+    <node name="fetchcontroller_node" pkg="csc7135_pkg1" type="fetchcontroller_node" output="screen" />
+
+    <!-- Launch the fetchsensor_node -->
+    <node name="fetchsensorbad_node" pkg="csc7135_pkg1" type="fetchsensorbad_node" output="screen" />
+
+</launch>
