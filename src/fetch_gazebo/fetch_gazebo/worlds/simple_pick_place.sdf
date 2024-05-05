@@ -12,9 +12,15 @@
       <name>table1</name>
       <pose>1.0 0 -0.08 0 0 0</pose>
     </include>
+    <!-- First blue cube -->
     <include>
       <uri>model://demo_cube</uri>
       <pose>0.6 0.1 0.75 0 0 0</pose>
+    </include>
+    <!-- Second blue cube -->
+    <include>
+      <uri>model://demo_cube_red</uri>
+      <pose>0.6 0.3 0.75 0 0 0</pose>
     </include>
   </world>
 </sdf>
