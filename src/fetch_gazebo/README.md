@@ -2,8 +2,11 @@
 
 ***05/04/24*** Removed the local git repository for this package.
 
-This repository contains the Gazebo simulation for Fetch Robotics Fetch and
-Freight Research Edition Robots.
+### Original README.md content
+TODO to be depricated
+
+
+This repository contains the Gazebo simulation for Fetch Robotics Fetch and Freight Research Edition Robots.
 
 Please note the _branch_: the default branch in GitHub is **gazebo9**.
 1. **gazebo11** should be used with **ROS Noetic** and **Ubuntu 20.04** (untested as of 1-2021)
@@ -35,4 +38,3 @@ Fetch Gazebo Package | Melodic Devel
 fetch_gazebo | [![Build Status](http://build.ros.org/buildStatus/icon?job=Mdev__fetch_gazebo__ubuntu_bionic_amd64)](http://build.ros.org/view/Mdev/job/Mdev__fetch_gazebo__ubuntu_bionic_amd64/)
 fetch_gazebo_demo | | | |
 fetchit_challenge | | | |
-
