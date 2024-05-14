@@ -2,7 +2,7 @@
 
 This repository contains a ROS Noetic workspace that enables simulation of a Fetch robot based on the Gazebo simulations from [fetch_gazebo](https://github.com/ZebraDevs/fetch_gazebo).
 
-Current
+It is a work in progress, system may not build at this time.
 
 This project was part of CSC 7135 Software Engineering project taught by Professor Umar Farooq at Louisiana State University.
 
